@@ -1,0 +1,4 @@
+clipdropship.png - 640x480 useless promo still
+dropship.avi - pre-animated glossy version of sprite
+dropship0000.png->0039.png - 64x64x24 PNG sprites, orthagonal projection, r125,g125,b125 background.
+ 
